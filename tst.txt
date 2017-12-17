@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 debut de travail sur la branche
+<<<<<<< HEAD
 
 milieu de travail sur la branche
 modificatio dans le master
@@ -12,3 +15,13 @@ debut de travail sur la branche
 
 milieu de travail sur la branche
 a6be550... 2em  commit de branche
+=======
+milieu de travail sur la branche
+>>>>>>> af54402... commit commun
+=======
+debut de travail sur la branche
+>>>>>>> 01664be... 1er commit de branche
+=======
+debut de travail sur la branche
+milieu de travail sur la branche
+>>>>>>> a6be550... 2em  commit de branche

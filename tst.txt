@@ -7,6 +7,7 @@ add numero 4  dans git1
 add numero 5  dans githubLocal1
 add numero 6 dans git0
 add numero 7 dans git0
+add numero 8 dans git0
 
 
 

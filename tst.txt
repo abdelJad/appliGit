@@ -5,5 +5,6 @@ add numero : 3  dans git0
 add numero : 4  dans git0
 add numero 4  dans git1
 add numero 5  dans githubLocal1
+add numero 6 dans git0
 
 

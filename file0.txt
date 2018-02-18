@@ -10,6 +10,7 @@ bonjour Madame2
 bonjour Madame3
 bonjour Madame4bonjour Monsieurbonjour Monsieur1
 bonjour Monsieur2
+bonjour Monsieur2
 bonjour Monsieur4
 bonjour Monsieur3_HP_Local0
 bonjour Monsieur4_HP_Local0
@@ -17,5 +18,8 @@ bonjour Monsieur5_HP_Local0
 bonjour Monsieur6_HP_Local0
 bonjour Monsieur7_HP_Local0
 bonjour Monsieur8_HP_Local0
+bonjour Madame3Hp_local1
+bonjour Madame43Hp_local1
+bonjour Madame43Hp_local1
 
 

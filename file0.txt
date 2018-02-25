@@ -1,10 +1,10 @@
 bonjour Madame
-<<<<<<< HEAD
 ajout numero 1
 ajout numero 2
 ajout numero 3
-=======
->>>>>>> parent of 1d212a0... ajout numero 1
+
+
+
 
 
 

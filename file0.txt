@@ -7,6 +7,14 @@ ajout numero BB2
 ajout numero master2
 ajout numero BB3
 tst
+premier add from fixBug
+deuxieme add from fixBug
+troisieme add from fixBug
+4eme add from fixBug
+troisieme commit from fixBug
+quatrieme commit from fixBug
+
+
 
 
 

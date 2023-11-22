@@ -1,4 +1,4 @@
-initRepo
+initRepo tmp
 
 
 
